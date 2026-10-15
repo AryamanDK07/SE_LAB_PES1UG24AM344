@@ -1,0 +1,5 @@
+No records for KA09ZZ0001
+Total for KA01AB1234: 2300
+Total for KA05XY9876: 2500
+Job card for KA01AB1234: 353ee89f
+Vehicles on file: 3 | busiest vehicle: KA01AB1234
